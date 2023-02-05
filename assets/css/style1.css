@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    color: #5a5a5a;
+    font-family: 'Caveat Brush';
+    
+
+}
+
+.card{
+    width: 20%;
+    height: auto;
+    border: 1px solid pink;
+}
+
+
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card {
+
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.button{
+    text-align: center;
+    padding-top: 30px;
+  
+}
+
+button{
+    color: #478855;
+    font-family: 'Caveat Brush';
+    background-color: rgb(198, 245, 206);
+    border-radius: 5px;
+    border: #478855 1px solid;
+    padding: 10px;
+    padding-right: 100px;
+    padding-left: 100px;
+    cursor: pointer;
+    
+}
+
+p{
+    text-align: center;
+    font-family: 'Caveat Brush';
+}
+
+input{
+    margin: 30px;
+}
